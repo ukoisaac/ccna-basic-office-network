@@ -37,3 +37,7 @@ Default Gateway
 * Basic router configuration
 * IP addressing
 * Network connectivity testing
+* <img width="722" height="685" alt="Router config " src="https://github.com/user-attachments/assets/8a5bf024-f065-47a8-851f-5c6cff3ed49b" /><img width="960" height="456" alt="Topology" src="https://github.com/user-attachments/assets/6b073eef-62ee-49e1-9383-ccb19a47c2b2" />
+
+
+
